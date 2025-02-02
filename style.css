@@ -1,0 +1,16 @@
+.anchor{
+  text-decoration: none;
+}
+
+.text-2xl{
+  font-size: 1.5rem;
+}
+
+.text-blue-500{
+  color: #3b82f6;
+}
+
+.hover\:text-black:hover{
+  color: #000;
+}
+
